@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @v0ffk4
-- 👀 Currently interested in relocation 😭
+- 👀 Currently interested in relocation
 - 🌱 Learning react/svelte/sidefx houdini
 - 💞️ Looking forward to collaborate on design-driven web apps
 - 📫 Feel free to contact me via [telegram](https://t.me/v0ffk4) 
